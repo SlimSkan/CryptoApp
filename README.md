@@ -1,2 +1,2 @@
 # CryptoApp
-This app allow the user to follow cryptocurrency movement and give you a tendacy 
+I made this page to help people figure out cryptocurrency market tendancies
